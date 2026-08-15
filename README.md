@@ -18,6 +18,4 @@
 
 Learning backend development and building projects to improve my skills.
 
-### Contact
 
-[LinkedIn](#) • [Email](#)
