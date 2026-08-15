@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I'm Bohdan 👋
+## I'm Bohdan 
 
 🎓 Computer Science student in Poland
 💻 Java Backend Developer in progress
